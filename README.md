@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GEP NEXXE](https://www.gep.com/software/gep-nexxe-supply-chain-management-software)
 
-- 🌱 I’m currently learning **Creating WEB APIs using ASP.NET Core**
+- 🌱 I’m currently learning **how to develop WEB APIs using ASP.NET Core**
 
 - 💬 Ask me about **MEAN and MERN stacks, along with SQL.**
 

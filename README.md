@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to develop WEB APIs using ASP.NET Core**
 
-- 💬 Ask me about **MEAN and MERN stacks, along with SQL.**
+- 💬 Ask me about **MEAN and MERN stacks, along with SQL**
 
 - 📫 How to reach me **procaffeinetor@gmail.com**
 

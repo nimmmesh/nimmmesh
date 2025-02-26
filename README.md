@@ -46,14 +46,14 @@ I am a passionate Full-Stack Developer with a strong background in building scal
 
 ## 🌟 Projects
 
-### **[Utility Quote] (Feb 2023 - Present)**
+### **Utility Quote (Feb 2023 - Present)**
 - Developed a **CRM tool** for the **UK energy sector** using **Angular, Node.js, and SQL**.
 - Integrated **Pusher.io for real-time communication**.
 
-### **[Vtrender] (Jun 2021 - Apr 2022)**
+### **Vtrender (Jun 2021 - Apr 2022)**
 - Built a **ReactJS-based stock market platform** integrated with **Django & MongoDB**.
 
-### **[Galaxy Tyres] (Jun 2023)**
+### **Galaxy Tyres (Jun 2023)**
 - Created a business website using **Next.js**.
 
 ---

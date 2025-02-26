@@ -1,8 +1,8 @@
 # Hi there, I'm Nimesh Sharma! 👋
 
-🚀 **Full-Stack Developer | MEAN & MERN | Data Science Enthusiast**
+🚀 **Full-Stack Developer | MEAN & MERN with Next.js | Data Science Enthusiast**
 
-I'm a passionate Full-Stack Developer with a strong background in building scalable web applications and optimizing performance. With expertise in the **MEAN (MongoDB, Express.js, Angular, Node.js) and MERN (MongoDB, Express.js, React, Node.js) stacks**, I love crafting efficient and innovative solutions.
+I am a passionate Full-Stack Developer with a strong background in building scalable web applications and optimizing performance. With expertise in the **MEAN and MERN with Next.js stacks**, I love crafting efficient and innovative solutions.
 
 ---
 
@@ -46,22 +46,22 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 
 ## 🌟 Projects
 
-### **[Utility Quote](https://github.com/nimmmesh/utility-quote) (Feb 2023 - Present)**
+### **[Utility Quote] (Feb 2023 - Present)**
 - Developed a **CRM tool** for the **UK energy sector** using **Angular, Node.js, and SQL**.
 - Integrated **Pusher.io for real-time communication**.
 
-### **[Vtrender](https://github.com/nimmmesh/vtrender) (Jun 2021 - Apr 2022)**
+### **[Vtrender] (Jun 2021 - Apr 2022)**
 - Built a **ReactJS-based stock market platform** integrated with **Django & MongoDB**.
 
-### **[Galaxy Tyres](https://github.com/nimmmesh/galaxy-tyres) (Jun 2023)**
+### **[Galaxy Tyres] (Jun 2023)**
 - Created a business website using **Next.js**.
 
 ---
 
 ## 📫 Connect With Me!
-- **LinkedIn:** [linkedin.com/in/nimesh-sharma](https://linkedin.com/in/nimesh-sharma)
-- **Portfolio:** [nimesh-portfolio-mu.vercel.app](https://nimesh-portfolio-mu.vercel.app)
-- **GitHub:** [github.com/nimmmesh](https://github.com/nimmmesh)
+- **LinkedIn:** [linkedin.com/in/nimesh-sharma](https://www.linkedin.com/in/nimesh-sharma/)
+- **Portfolio:** [Developer Portfolio](https://nimesh-portfolio-mu.vercel.app/)
+- **GitHub:** [github.com/nimmmesh](https://github.com/nimmmesh/)
 
 ---
 

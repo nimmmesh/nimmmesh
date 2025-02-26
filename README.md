@@ -1,22 +1,68 @@
-<h1 align="center">Hi 👋, I'm Nimesh Sharma</h1>
-<h3 align="center">Full Stack Developer | Freelancer</h3>
+# Hi there, I'm Nimesh Sharma! 👋
 
-- 🔭 I’m currently working on [GEP NEXXE](https://www.gep.com/software/gep-nexxe-supply-chain-management-software)
+🚀 **Full-Stack Developer | MEAN & MERN | Data Science Enthusiast**
 
-- 🌱 I’m currently learning **how to develop WEB APIs using ASP.NET Core**
+I'm a passionate Full-Stack Developer with a strong background in building scalable web applications and optimizing performance. With expertise in the **MEAN (MongoDB, Express.js, Angular, Node.js) and MERN (MongoDB, Express.js, React, Node.js) stacks**, I love crafting efficient and innovative solutions.
 
-- 💬 Ask me about **MEAN and MERN stacks, along with SQL**
+---
 
-- 📫 How to reach me **procaffeinetor@gmail.com**
+## 🔧 Tech Stack & Skills
 
-- 📄 Know about my experiences [Developer Portfolio](https://nimesh-portfolio-mu.vercel.app/)
+### **💻 Primary:**
+- TypeScript, JavaScript
+- Angular, Node.js, MongoDB
+- Object-oriented programming (OOP)
+- MEAN Stack, MERN with Next.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nimesh-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-sharma" height="30" width="40" /></a>
-</p>
+### **📌 Secondary:**
+- ReactJS, Business Process Model and Notation (BPMN)
+- Python, Django, SQL, Pusher.io
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **☁️ DevOps & Tools:**
+- AWS Lambda, Nginx, Jenkins, Docker, Kubernetes
+- Grafana, New Relic
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimmmesh&show_icons=true&locale=en&layout=compact" alt="nimmmesh" /></p>
+### **✨ Soft Skills:**
+- Problem Solving, Quick Learning, Tech Agility
+
+---
+
+## 📌 Work Experience
+
+### **Senior Software Engineer | GEP Worldwide** *(Jan 2024 – Present)*
+- Developed high-impact features using **Node.js APIs, MongoDB, and Angular 8 low-code plugins**.
+- Implemented **BPMN processes** for scalable solutions and enhanced user experience.
+- **Resolved 15+ tickets per sprint**, ensuring smooth feature delivery.
+
+### **Software Engineer | GEP Worldwide** *(Mar 2022 – Dec 2023)*
+- Developed **Angular 8 low-code plugins**, reducing development time by **30%**.
+- Ensured **WCAG compliance** and promoted cross-team collaboration.
+
+### **Software Engineer | Sankey Solutions** *(Jun 2020 – Feb 2022)*
+- Built **web & mobile SPAs** using **Angular 8, Node.js APIs, and MongoDB**.
+- Integrated **Apache Kafka** for real-time event processing and **Keycloak** for secure authentication.
+
+---
+
+## 🌟 Projects
+
+### **[Utility Quote](https://github.com/nimmmesh/utility-quote) (Feb 2023 - Present)**
+- Developed a **CRM tool** for the **UK energy sector** using **Angular, Node.js, and SQL**.
+- Integrated **Pusher.io for real-time communication**.
+
+### **[Vtrender](https://github.com/nimmmesh/vtrender) (Jun 2021 - Apr 2022)**
+- Built a **ReactJS-based stock market platform** integrated with **Django & MongoDB**.
+
+### **[Galaxy Tyres](https://github.com/nimmmesh/galaxy-tyres) (Jun 2023)**
+- Created a business website using **Next.js**.
+
+---
+
+## 📫 Connect With Me!
+- **LinkedIn:** [linkedin.com/in/nimesh-sharma](https://linkedin.com/in/nimesh-sharma)
+- **Portfolio:** [nimesh-portfolio-mu.vercel.app](https://nimesh-portfolio-mu.vercel.app)
+- **GitHub:** [github.com/nimmmesh](https://github.com/nimmmesh)
+
+---
+
+⚡ **Let's collaborate and build amazing things together!** 🚀

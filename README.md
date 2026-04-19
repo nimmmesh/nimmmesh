@@ -1,6 +1,6 @@
 # Hi, I'm Nimesh Sharma
 
-**Senior Full-Stack Engineer** with 5+ years of experience specializing in MEAN stack, ASP.NET Core, and microservices architecture for Fortune 500 enterprises. Currently building AI-powered procurement workflows at GEP Worldwide.
+**Senior Full-Stack Engineer** with 5+ years of experience specializing in MEAN/MERN stack, ASP.NET Core, and microservices architecture for Fortune 500 enterprises. Currently building AI-powered procurement workflows at GEP Worldwide.
 
 ## About Me
 

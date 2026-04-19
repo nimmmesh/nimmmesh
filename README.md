@@ -61,8 +61,7 @@ Stock market analytics platform for Orderflow, Market Profile, and the daily 50,
 ## Currently Learning
 
 - Agentic AI patterns and LLM-powered workflow orchestration
-- Advanced Kubernetes operators and service mesh (Istio)
-- Event-driven architectures with Kafka Streams
+- Data Science, System Design, and DevOps certifications
 
 ## Connect With Me
 

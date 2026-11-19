@@ -1,67 +1,50 @@
 # Hi, I'm Nimesh Sharma
 
-**Senior Full-Stack Engineer** with 5+ years of experience specializing in MEAN/MERN stack, ASP.NET Core, and microservices architecture for Fortune 500 enterprises. Currently building AI-powered procurement workflows at GEP Worldwide.
+**Senior Software Engineer** with 6+ years of experience, including 2 years building **Generative AI and NLP** solutions for enterprise contract intelligence at GEP Worldwide in Mumbai.
 
 ## About Me
 
-I design and ship high-performance enterprise systems at scale -- from AI agent orchestration and low-code platforms to containerized microservices processing millions of documents. My work spans the full stack: Angular and React frontends, Node.js and .NET backends, MongoDB and PostgreSQL databases, and Kubernetes-based cloud infrastructure on Azure and AWS.
+My work has gone into **5 production AI microservices used by 20+ enterprise clients**: contract Q&A, search, clause analysis and data extraction, built with tenant data isolation and PII protection. I like the part of AI work that happens after the demo: retrieval quality, cost, privacy and keeping services up.
 
-Previously, I built the Tata Motors Fleet Edge platform serving 2.8L+ users and 7L+ vehicles with real-time telemetry processing.
+Before that, I built the Tata Motors Fleet Edge SaaS platform at Sankey Solutions, serving 280,000+ users and 700,000+ vehicles with real-time telemetry.
 
 **B.E. in Computer Science** -- Mumbai University
 
+## What I Work On
+
+- **RAG contract Q&A** with FastAPI, Azure OpenAI, LangChain and Qdrant, using intent routing and cross-encoder reranking
+- **Natural-language contract search** that turns plain-English questions into validated filters over hybrid semantic and keyword retrieval
+- **Clause identification and recommendation** using embedding similarity, Levenshtein distance and a tuned BERT-based clause model
+- **Contract data extraction** with spaCy NER, LLM fallback and Azure Content Understanding
+- **Privacy for LLM calls** through reversible PII masking, so personal data never reaches the model
+- **Running it in production** on Docker and Kubernetes (AKS) with Azure DevOps CI/CD and monitoring
+
 ## Tech Stack
 
-**Languages & Frameworks**
+**AI & NLP**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-**Databases & Messaging**
+**Data Science**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**DevOps & Cloud**
+**Software Engineering**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-## Featured Projects
+**Cloud & DevOps**
 
-### GEP QUANTUM -- AI-First Low-Code Platform
-The engine behind GEP SMART and GEP NEXXE -- blending AI, data intelligence, and microservice architecture to power procurement and supply chain platforms for Fortune 500 enterprises with zero-downtime deployments.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-`Angular 8` `Node.js` `ASP.NET Core` `MongoDB` `Kubernetes` `Azure Pipelines` `Camunda BPMN`
+## Certifications
 
-### GEP Qi -- Agentic AI for Procurement Orchestration
-Procurement's first agentic orchestration engine that coordinates domain-trained AI agents to plan, decide, and act across source-to-pay workflows for Fortune 500 enterprises.
-
-`AI Agents`
-
-### Tata Motors Fleet Edge
-Fleet management SaaS platform serving 2.8L+ users and 7L+ vehicles with real-time GPS tracking, trip planning, driver behaviour scoring, and vehicle health monitoring -- processing 2B+ user events.
-
-`Angular 8` `Node.js` `Django` `PostgreSQL` `Kafka` `Keycloak` `Grafana` `AWS EKS`
-
-### Vtrender Charts
-Stock market analytics platform for Orderflow, Market Profile, and the daily 50,000 Cr options market.
-
-`ReactJS` `Django` `MongoDB`
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nimmmesh&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimmmesh&hide_border=true" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimmmesh&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+- [Foundations of Data Science and Machine Learning with Python](https://coursera.org/verify/OX8UL7QJL735) -- Packt, Coursera (Jul 2026)
+- [Google AI Professional Certificate](https://coursera.org/verify/professional-cert/K2X830H5I8O7) -- Google, Coursera (Jul 2026)
 
 ## Currently Learning
 
 - Agentic AI patterns and LLM-powered workflow orchestration
-- Data Science, System Design, and DevOps certifications
 
 ## Connect With Me
 
